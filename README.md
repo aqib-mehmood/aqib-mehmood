@@ -30,7 +30,6 @@ I'm a Software Quality Assurance Engineer with a focus on ensuring the quality a
 - **API Automation:** Cypress, Postman 
 - **Performance Testing:** JMeter
 - **Design Pattern:** Page Object Model (POM)
-- **API Testing:** Postman
 - **Version Control:** Github
 - **Project Management:** JIRA
 - **Security Testing:** Burp Suite
@@ -50,11 +49,10 @@ I'm a Software Quality Assurance Engineer with a focus on ensuring the quality a
 ## 🌱 Currently Exploring
 
 - Advanced Techniques, Tools and Technologies in QA Automaion Testing.
-- Continuous integration and delivery (CI/CD) in the context of testing.
+- Roadmap to become a Software Development Engineer in Test (SDET).
 
-## 📫 Connect with Me
+## 📫 How to reach me
 
 - [LinkedIn](https://www.linkedin.com/in/aqib-mehmood422)
-- [Twitter](https://twitter.com/aqibmehmood)
 
 ## 🙌 Happy Learning, Happy Hunting! 🙌
