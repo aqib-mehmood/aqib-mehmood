@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 👋 Hi there, I'm Aqib Mehmood, an aspiring (SDET) from Pakistan 🇵🇰.
+## 👋 Hi there, I'm Aqib Mehmood, an aspiring SDET from Pakistan 🇵🇰.
 
 I'm a Software Quality Assurance Engineer with a focus on ensuring the quality and security of decentralized applications (dApps). With a background of two years in Software Quality Assurance, I bring valuable experience to the world of blockchain technology.
 
@@ -24,12 +24,13 @@ I'm a Software Quality Assurance Engineer with a focus on ensuring the quality a
 
 ## 🛠️ Technologies & Tools
 
-- **Programming:** Java
-- **Testing Frameworks:** TestNG
-- **Languages:** JavaScript
+- **Languages:** Java, JavaScript, Python, HTML/CSS, Bash
+- **Web Automation:** Selenium, Cypress
+- **Testing Frameworks:** TestNG, Chai, Mocha
+- **API Automation:** Cypress, Postman 
+- **Performance Testing:** JMeter
 - **Design Pattern:** Page Object Model (POM)
 - **API Testing:** Postman
-- **Performance Testing:** JMeter
 - **Version Control:** Github
 - **Project Management:** JIRA
 - **Security Testing:** Burp Suite
@@ -38,10 +39,9 @@ I'm a Software Quality Assurance Engineer with a focus on ensuring the quality a
 
 - Manual Testing
 - Automation Testing
-- Web 3.0 Application Testing
-- Blockchain
+- Blockchain Application Testing
 - Smart Contract Unit Testing
-- Dapp Testing
+- dApp Testing
 
 ## 📜 Certification
 
@@ -49,12 +49,12 @@ I'm a Software Quality Assurance Engineer with a focus on ensuring the quality a
 
 ## 🌱 Currently Exploring
 
-- Advanced techniques in blockchain testing.
+- Advanced Techniques, Tools and Technologies in QA Automaion Testing.
 - Continuous integration and delivery (CI/CD) in the context of testing.
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/aqibmehmood)
+- [LinkedIn](https://www.linkedin.com/in/aqib-mehmood422)
 - [Twitter](https://twitter.com/aqibmehmood)
 
 ## 🙌 Happy Learning, Happy Hunting! 🙌
