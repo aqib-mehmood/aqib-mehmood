@@ -53,6 +53,7 @@ I'm a Software Quality Assurance Engineer with a focus on ensuring the quality a
 
 ## 📫 How to reach me
 
+- If QA Automation equally excites you, feel free to reach out! I'm always open to working together and exploring new opportunities.
 - [LinkedIn](https://www.linkedin.com/in/aqib-mehmood422)
 
 ### 🙌 Happy Learning, Happy Hunting! 🙌
