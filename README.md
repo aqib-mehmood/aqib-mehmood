@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## 👋 Hi there, I'm Aqib Mehmood, an aspiring SDET from Pakistan 🇵🇰.
 
-I'm a Software Quality Assurance Engineer with a focus on ensuring the quality and security of decentralized applications (dApps). With a background of two years in Software Quality Assurance, I bring valuable experience to the world of blockchain technology.
+I'm a Software Quality Assurance Engineer with a focus on ensuring the quality and security of decentralized applications (dApps). With a background of three years in Software Quality Assurance, I bring valuable experience to the world of blockchain technology.
 
 ## 🚀 About Me
 
