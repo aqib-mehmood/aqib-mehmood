@@ -36,11 +36,14 @@ I'm a Software Quality Assurance Engineer with a focus on ensuring the quality a
 
 ## 🔧 Skills
 
+- Automated Testing
 - Manual Testing
-- Automation Testing
+- API Testing
+- Performance Testing
 - Blockchain Application Testing
 - Smart Contract Unit Testing
 - dApp Testing
+- Security Testing
 
 ## 📜 Certification
 
