@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 ## 👋 Hi there, I'm Aqib Mehmood, an aspiring SDET from Pakistan 🇵🇰.
 
-I'm a Software Quality Assurance Engineer with a focus on ensuring the quality and security of decentralized applications (dApps). With a background of three years in Software Quality Assurance, I bring valuable experience to the world of blockchain technology.
+I have around 3 years of experience as a QA Engineer, specialized in testing blockchain applications.
 
 ## 🚀 About Me
 
-- 🏢 I’m currently working as Blockchain QA Engineer.
+- 🏢 I’m currently working as a Blockchain QA Engineer.
 - 🔍 Experienced in Manual Testing, Functional & Non-Functional Testing, and Test Automation tools like Cypress & Selenium.
 - 🌐 Actively Learning trending Tools and Technologies for QA Automation.
 
@@ -26,12 +26,13 @@ I'm a Software Quality Assurance Engineer with a focus on ensuring the quality a
 
 - **Languages:** Java, JavaScript, Python, HTML/CSS, Bash
 - **Web Automation:** Selenium, Cypress
+- **Mobile Automation:** Appium
 - **Testing Frameworks:** TestNG, Chai, Mocha
 - **API Automation:** Cypress, Postman 
 - **Performance Testing:** JMeter
 - **Design Pattern:** Page Object Model (POM)
 - **Version Control:** Github
-- **Project Management:** JIRA
+- **Project Management:** Jira, Trello, Notion
 - **Security Testing:** Burp Suite
 
 ## 🔧 Skills
